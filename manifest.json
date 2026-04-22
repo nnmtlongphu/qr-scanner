@@ -1,0 +1,21 @@
+{
+  "name": "Hệ thống Quét QR",
+  "short_name": "Quét QR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#0d6efd",
+  "description": "Ứng dụng quét mã QR và đồng bộ Google Sheets",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2415/2415284.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2415/2415284.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
